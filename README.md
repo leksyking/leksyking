@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/ogundipe_felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ogundipe_felix" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/leksyking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="leksyking" height="30" width="40" /></a>
-<a href="https://fb.com/ogundipe felix oluwagbemileke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ogundipe felix oluwagbemileke" height="30" width="40" /></a>
+<a href="https://fb.com/felix oluwagbemileke ogundipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ogundipe felix oluwagbemileke" height="30" width="40" /></a>
 <a href="https://instagram.com/leksy_king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leksy_king" height="30" width="40" /></a>
 <a href="https://hashnode.com/@leksyking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@leksyking" height="30" width="40" /></a>
 </p>
