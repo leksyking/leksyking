@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Leksyking <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 <h3 align="center">About Me</h3>
-    <p> 🎓 I am currently pursuing my **Bachelor's in Computer Engineering**.</p>
-    <p> 🌱 I am currently learning Back-end Development with **NodeJs/Express** and also interested in **Web Development**.</p>
+    <p> 🎓 I am currently pursuing my <strong>Bachelor's in Computer Engineering</strong>.</p>
+    <p> 🌱 I am currently learning Back-end Development with <strong>NodeJs/Express</strong> and also interested in <strong>Web Development</strong>.</p>
     <p> 💞️ I am looking to collaborate on back-end projects involving Node and perhaps Go.</p>
-    <p> 🎯 My Goal is to Contribute to as many **open source project** as possible as well as improve my skills.</p>
-    <p>✨ I love to create different types of **contents**.</p>
-    <p>📫 How to reach me: gbemilekeogundipe@gmail.com.  </p>
-    <p>⚽ Manchester United fan.
+    <p> 🎯 My Goal is to Contribute to as many <strong>open source project</strong> as possible as well as improve my skills.</p>
+    <p> 📫 How to reach me: gbemilekeogundipe@gmail.com.  </p>
+    <p> ⚽ Manchester United fan.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
