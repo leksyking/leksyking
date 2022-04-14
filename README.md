@@ -2,7 +2,7 @@
 <h3 align="center">About Me</h3>
     <p> 🎓 I am currently pursuing my <strong>Bachelor's in Computer Engineering</strong>.</p>
     <p> 🌱 I am currently learning Back-end Development with <strong>NodeJs/Express</strong> and also interested in <strong>Web Development</strong>.</p>
-    <p> 💞️ I am looking to collaborate on back-end projects involving Node and perhaps Go.</p>
+    <p> 💞️ I am looking to collaborate on back-end projects involving Node and Go.</p>
     <p> 🎯 My Goal is to Contribute to as many <strong>open source project</strong> as possible as well as improve my skills.</p>
     <p> 📫 How to reach me: gbemilekeogundipe@gmail.com.  </p>
     <p> ⚽ Manchester United fan.
@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leksyking&show_icons=true&locale=en&layout=compact" alt="leksyking" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leksyking&" alt="leksyking" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leksyking&" alt="leksyking" /></p> -->
 
 
 
