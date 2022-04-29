@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leksyking <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 <h3 align="center">About Me</h3>
     <p> 🎓 I am currently pursuing my <strong>Bachelor's in Computer Engineering</strong>.</p>
-    <p> 🌱 I am currently learning Back-end Development with <strong>NodeJs/Express</strong> and also interested in <strong>Web Development</strong>.</p>
+    <p> 🌱 I am currently learning Back-end Development with <strong>Go</strong> and also interested in <strong>Web Development</strong>.</p>
     <p> 💞️ I am looking to collaborate on back-end projects involving Node and Go.</p>
     <p> 🎯 My Goal is to Contribute to as many <strong>open source project</strong> as possible as well as improve my skills.</p>
     <p> 📫 How to reach me: gbemilekeogundipe@gmail.com.  </p>
